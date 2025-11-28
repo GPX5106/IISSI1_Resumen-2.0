@@ -2,7 +2,11 @@ title: Just the Docs Template
 description: A starter template for a Jeykll site using the Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://GPX5106.github.io/IISSI1_Resumen-2.
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  Template Repository: https://github.com/GPX5106/IISSI1_Resumen-2.0
+
+# Activar búsqueda
+search_enabled: true
+
